@@ -8,12 +8,7 @@
 	"image": "https://raw.githubusercontent.com/justineuro/obSamples/master/Badge-100-openbadgesme.png" , 
 	"evidence": "https://github.com/justineuro/obSamples/raw/master/Badge-100-openbadgesme.png", 
 	"issuedOn": "2019-01-30", 
-	"issuer": { 
-		"origin": "https://justineuro.github.io/", 
-		"name": "Justine Leon Uro", 
-		"org": "Not a Real Badge, 2019", 
-		"contact": "justineuro@gmail.com" 
-	}, 
+	"issuer": "https://raw.githubusercontent.com/justineuro/obSamples/master/badge-issuer.json", 
 	"badge":  "https://raw.githubusercontent.com/justineuro/obSamples/master/Badge-100-openbadgesme.json", 
 	"verify": { 
 		"type": "hosted", 
