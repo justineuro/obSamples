@@ -5,7 +5,7 @@
 		"hashed": true, 
 		"identity": "sha256$b6778829206e08e20886f56dc213107eec5902cf2b53967fcc73eb45fb69998b" 
 	}, 
-	"image": "https://justineuro.github.io/obSamples/B100-obme-1.png", 
+	"image": "https://raw.githubusercontent.com/justineuro/obSamples/master/B100-obme-1.png", 
 	"evidence": "https://justineuro.github.io/obSamples/B100-obme-1.png", 
 	"issuedOn": "2019-01-30", 
 	"issuer": "https://justineuro.github.io/obSamples/badge-issuer.json", 
