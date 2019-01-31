@@ -1,0 +1,7 @@
+{
+	"name": "JURookie Badge Issuer",
+	"description": "based on https://github.com/mozilla/openbadges-backpack/wiki/New-Issuers:-Give-Yourself-a-Badge",
+	"image": "https://raw.githubusercontent.com/justineuro/obSamples/master/Badge-100-openbadgesme.png",
+	"criteria": "https://raw.githubusercontent.com/justineuro/obSamples/master/BExcellent.html",
+	"issuer": "https://raw.githubusercontent.com/justineuro/obSamples/master/badge-issuer.json"
+}
