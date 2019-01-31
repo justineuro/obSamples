@@ -2,12 +2,12 @@
 	"uid": "excellent001", 
 	"recipient": { 
 		"type": "email", 
-		"hashed": false, 
-		"identity": "justineleonu@gmail.com" 
+		"hashed": true, 
+		"identity": "sha256$9a95a09d2aca8ac1f708a68df9d1340e3f0e215d1b8aee3ccf03897c47567157" 
 	}, 
 	"image": "https://justineuro.github.io/obSamples/B100-obme-1.png", 
-	"evidence": "https://justineuro.github.io/obSamples/B100-obme-1.png", 
-	"issuedOn": "2019-01-30", 
+	"evidence": "https://justineuro.github.io/obSamples/B100-obme-1B.png", 
+	"issuedOn": "2019-01-31", 
 	"issuer": "https://justineuro.github.io/obSamples/badge-issuer.json", 
 	"badge":  "https://justineuro.github.io/obSamples/B100-obme-class-1.json", 
 	"verify": { 
