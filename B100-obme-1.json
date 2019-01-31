@@ -9,7 +9,7 @@
 	"evidence": "https://justineuro.github.io/obSamples/B100-obme-1B.png", 
 	"issuedOn": "2019-01-30", 
 	"issuer": "https://justineuro.github.io/obSamples/badge-issuer.json", 
-	"badge":  "https://justineuro.github.io/obSamples/B100-obme-1.json", 
+	"badge":  "https://justineuro.github.io/obSamples/B100-obme-class-1.json", 
 	"verify": { 
 		"type": "hosted", 
 		"url": "https://justineuro.github.io/obSamples/B100-obme-1.json" 
