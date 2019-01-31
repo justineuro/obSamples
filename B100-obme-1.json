@@ -2,8 +2,8 @@
 	"uid": "excellent001", 
 	"recipient": { 
 		"type": "email", 
-		"hashed": true, 
-		"identity": "sha256$b6778829206e08e20886f56dc213107eec5902cf2b53967fcc73eb45fb69998b" 
+		"hashed": false, 
+		"identity": "justineleonu@gmail.com" 
 	}, 
 	"image": "https://justineuro.github.io/obSamples/B100-obme-1.png", 
 	"evidence": "https://justineuro.github.io/obSamples/B100-obme-1.png", 
