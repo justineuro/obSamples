@@ -1,0 +1,7 @@
+{
+	"name": "Rookie Badge Issuer",
+	"description": "Issues great new Open Badges to self.",
+	"image": "https://justineuro.github.io/obSamples/B100-obme-1B.png",
+	"criteria": "https://justineuro.github.io/obSamples/BExcellent.html",
+	"issuer": "https://justineuro.github.io/obSamples/badge-issuer.json"
+}
